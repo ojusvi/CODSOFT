@@ -92,7 +92,7 @@ input.zero {
 }
 
 input.equal:hover {
-    background-color: hsla(270, 100%, 60%, 1);
+    background-color: gray;
 }
 
 input.symbol1 {
